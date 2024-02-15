@@ -13,6 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=putsan&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </details>
 
+[![Yuriy Putsan profile views](https://u8views.com/api/v1/github/profiles/11944886/views/day-week-month-total-count.svg)](https://u8views.com/github/putsan)
 [![](https://visitcount.itsvg.in/api?id=putsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
