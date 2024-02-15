@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Pet Projects<br>👯 I’m looking to collaborate on ..<br>🤝 I’m looking for help with ..<br>🌱 I’m currently learning Obsidian 😉<br>💬 Ask me about anything<br>⚡ Fun fact I'll add later
+🔭 I’m currently working on my Projects and actively looking for a new job<br>👯 I’m looking to collaborate on creating Telegram bots and more other apps&utils<br>🤝 I’m looking for help with SEO for the [emphaty](https://github.com/putsan/empathy) website<br>🌱 I’m currently learning Obsidian.md 😉<br>💬 Ask me about anything!)<br>⚡ Fun fact I'll add later
 
 
 # 💻 Tech Stack:
